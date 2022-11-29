@@ -1,4 +1,5 @@
-# 12hr_clock
-a 12 hour clock for godot
+# GDScript Clock
+a simple 12 and 24 hour clock for GDScript
 
+# How to use
 Simply add the script as a autoload
